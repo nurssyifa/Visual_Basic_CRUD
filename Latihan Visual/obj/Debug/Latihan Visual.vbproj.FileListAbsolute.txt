@@ -1,0 +1,10 @@
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\bin\Debug\Latihan Visual.exe.config
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\bin\Debug\Latihan Visual.exe
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\bin\Debug\Latihan Visual.pdb
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\bin\Debug\Latihan Visual.xml
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan Visual.vbprojResolveAssemblyReference.cache
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan_Visual.Resources.resources
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan Visual.vbproj.GenerateResource.Cache
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan Visual.exe
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan Visual.xml
+D:\Semester 5\Pemrograman Visual\Latihan Visual\Latihan Visual\obj\Debug\Latihan Visual.pdb
